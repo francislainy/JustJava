@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="increment_sign">+</string>
+    <string name="decrement_sign">-</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="add_chocolate">Add chocolate?</string>
+    <string name="add_whippedCream">Add whipped cream?</string>
+    <string name="name">Name</string>
+    <string name="total">Total: £</string>
+    <string name="quantity_order">Quantity</string>
+    <string name="initial_orderQuantity">1</string>
+    <string name="maximum_cups_of_coffee">Reached maximum number of cups of coffee per order</string>
+    <string name="minimum_cups_of_coffee">Reached minimum number of cups of coffee per order</string>
+    <string name="just_java_order_for">Just Java order for</string>
 </resources>
